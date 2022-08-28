@@ -1,0 +1,60 @@
+#back {
+  position: absolute;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-top: 50px;
+
+  left: 40%;
+
+  margin-left: 20px;
+  width: 220px;
+  border: 60px;
+  background-color: whitesmoke;
+  padding: 35px;
+  height: 395px;
+}
+.imag {
+  position: relative;
+  right: 335px;
+  bottom: 95px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  height: 465px;
+  width: 300px;
+}
+#eau {
+  position: relative;
+  top: -460px;
+  right: 20px;
+  padding-left: 25px;
+}
+#para {
+  position: absolute;
+  bottom: 100px;
+}
+#doll {
+  position: absolute;
+
+  bottom: 10%;
+  top: 350px;
+  left: 59px;
+  font-family: Montserrat;
+  font-family: Fraunces;
+  font-size: 20px;
+  color: rgb(61, 129, 104);
+}
+.btn {
+  position: relative;
+  bottom: 315px;
+  right: 15px;
+  width: 250px;
+  background-color: rgb(61, 129, 104);
+
+  font-size: 16px;
+
+  text-align: center;
+  border-radius: 10px;
+  height: 60px;
+  font-family: Fraunces;
+  border: rgb(61, 129, 104);
+}
